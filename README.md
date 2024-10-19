@@ -40,3 +40,21 @@ You can try the app live [here](https://bright-tarsier-5eb893.netlify.app/) (lin
 
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
+
+2. Open the Project Folder:
+
+   ```bash
+   cd your-repo-name
+
+3. Open the ***index.html*** file in your browser to view the app:
+   - On Windows, you can double-click the index.html file.
+   - On macOS/Linux, you can open it using your preferred browser.
+
+## Technologies Used
+
+- **HTML** for the structure and layout of the web app.
+- **CSS** for styling (if used).
+- **JavaScript** for functionality, handling speed tests, and ping requests.
+
+
+
