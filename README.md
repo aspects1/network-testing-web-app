@@ -1,21 +1,42 @@
-Network Testing Web App
-A simple and efficient web application that helps users test their internet connection. The app provides two main functionalities:
+# Network Testing Web App
 
-Speed Test: Measures your download and upload speeds.
-Ping Tester: Checks the responsiveness and latency of your network to a server.
-Features
-Speed Test:
+A web application built using HTML and JavaScript that allows users to test their internet connection. The app includes:
 
-Real-time download and upload speed measurement.
-Display results in Mbps (Megabits per second).
-Easy-to-understand UI for speed comparison.
-Ping Tester:
+- **Speed Test**: Measures your download and upload speeds.
+- **Ping Tester**: Checks the network latency by measuring ping times to a server.
 
-Calculate network latency to various servers.
-Real-time ping result visualization.
-Display latency in milliseconds (ms).
-Installation
-Prerequisites
-Node.js installed on your machine.
-Git for version control.
-Modern browser for testing the web app.
+## Features
+
+- **Speed Test**:
+  - Real-time download and upload speed measurement.
+  - Displays results in Mbps (Megabits per second).
+  - Simple and intuitive user interface.
+
+- **Ping Tester**:
+  - Allows users to ping a specific server or IP address.
+  - Measures and displays the round-trip time in milliseconds (ms).
+  - Visual feedback for ping success and failure.
+
+## Demo
+
+You can try the app live [here](#) (link to the live demo if available).
+
+## How to Use
+
+1. **Speed Test**:
+   - Click on the **"Start Speed Test"** button.
+   - The app will measure and display your download and upload speeds in real-time.
+
+2. **Ping Tester**:
+   - Enter the server address or IP in the input field.
+   - Click on the **"Ping"** button to start the test.
+   - The app will show the ping time in milliseconds (ms).
+
+## Installation
+
+### Steps
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
