@@ -20,6 +20,8 @@ A web application built using HTML and JavaScript that allows users to test thei
 ## Demo
 
 You can try the app live [here](https://bright-tarsier-5eb893.netlify.app/) (link to the live demo if available).
+![{E02ECD64-881F-4855-9622-2BEA482CCD09}](https://github.com/user-attachments/assets/9aefb3c3-35b9-4693-ad8c-efbc31d40265)
+
 
 ## How to Use
 
