@@ -19,7 +19,7 @@ A web application built using HTML and JavaScript that allows users to test thei
 
 ## Demo
 
-You can try the app live [here](#) (link to the live demo if available).
+You can try the app live [here](https://bright-tarsier-5eb893.netlify.app/) (link to the live demo if available).
 
 ## How to Use
 
