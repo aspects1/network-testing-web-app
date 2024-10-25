@@ -41,12 +41,12 @@ You can try the app live [here](https://bright-tarsier-5eb893.netlify.app/)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/aspects1/network-testing-web-app
 
 2. Open the Project Folder:
 
    ```bash
-   cd your-repo-name
+   cd network-testing-web-app
 
 3. Open the ***index.html*** file in your browser to view the app:
    - On Windows, you can double-click the index.html file.
@@ -55,7 +55,7 @@ You can try the app live [here](https://bright-tarsier-5eb893.netlify.app/)
 ## Technologies Used
 
 - **HTML** for the structure and layout of the web app.
-- **CSS** for styling (if used).
+- **CSS** for styling 
 - **JavaScript** for functionality, handling speed tests, and ping requests.
 
 
